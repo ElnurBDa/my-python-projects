@@ -1,0 +1,11 @@
+.aa{margin:-2px;transition:3s all;width:10px;height:300px;}
+.aa1{color:red;background-color:red;}
+.aa2{color:blue;background-color:blue;}
+.aa3{color:yellow;background-color:yellow;}
+.aa4{color:green;background-color:green;}
+.borderer{border-bottom:2px solid #000000;
+    border-right:2px solid #000000;
+    border-left:2px solid #E1E1E1;
+    border-top:2px solid #E1E1E1;}
+.hop:hover{color:black;
+    background-color:black;
